@@ -15,7 +15,7 @@
 
 ### 📊 Thermoelectric Data & Databases (property and performance curve digital data)
 - 📈 [Best Thermoelectric Efficiency Dataset](https://data.mendeley.com/datasets/r9bhpv6vx9/1)
-- 📊 [teMatDb v1.1.4 – Thermoelectric Material Database](https://tematdbv114.streamlit.app/)
+- 📊 [teMatDb (v1.1.6) – Thermoelectric Material Database](https://tematdbv.streamlit.app/)
 
 ---
 
